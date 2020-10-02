@@ -1,1 +1,1 @@
-#Sample python assignment
+#Sample python problems for beginners
